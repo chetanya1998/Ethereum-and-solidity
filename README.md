@@ -1,2 +1,3 @@
 # Ethereum-and-solidity
-intializing blockchain development
+Ethereum and Solidity based contracts
+
