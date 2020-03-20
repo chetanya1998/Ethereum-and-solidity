@@ -1,3 +1,3 @@
-# Ethereum-and-solidity
-Ethereum and Solidity based contracts
+# SMART CONTRACTS
+Ethereum Smart Contracts Implemented in solidity
 
